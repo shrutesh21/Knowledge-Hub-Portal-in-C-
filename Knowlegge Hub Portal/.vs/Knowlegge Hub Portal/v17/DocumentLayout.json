@@ -1,0 +1,1004 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\controllers\\articlescontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\controllers\\articlescontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\articlescontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\articlescontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF9D45B-778C-46BB-AE82-64B08A01BFBB}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.domain\\repository\\iarticlesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF9D45B-778C-46BB-AE82-64B08A01BFBB}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|solutionrelative:knowledgehubportal.domain\\repository\\iarticlesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C6D577-CF1D-4762-9BA2-60E3E3B4C766}|konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\konwledgehubportal.data\\articlesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C6D577-CF1D-4762-9BA2-60E3E3B4C766}|konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj|solutionrelative:konwledgehubportal.data\\articlesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\articlescontroller1\\accept.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\articlescontroller1\\accept.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\controllers\\catagoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\controllers\\catagoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\articlescontroller1\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\articlescontroller1\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF9D45B-778C-46BB-AE82-64B08A01BFBB}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.domain\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF9D45B-778C-46BB-AE82-64B08A01BFBB}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|solutionrelative:knowledgehubportal.domain\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C6D577-CF1D-4762-9BA2-60E3E3B4C766}|konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\konwledgehubportal.data\\khpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C6D577-CF1D-4762-9BA2-60E3E3B4C766}|konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj|solutionrelative:konwledgehubportal.data\\khpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\catagories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\catagories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C6D577-CF1D-4762-9BA2-60E3E3B4C766}|konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\konwledgehubportal.data\\catagoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C6D577-CF1D-4762-9BA2-60E3E3B4C766}|konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj|solutionrelative:konwledgehubportal.data\\catagoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF9D45B-778C-46BB-AE82-64B08A01BFBB}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.domain\\repository\\icatagoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF9D45B-778C-46BB-AE82-64B08A01BFBB}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|solutionrelative:knowledgehubportal.domain\\repository\\icatagoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF9D45B-778C-46BB-AE82-64B08A01BFBB}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.domain\\entities\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF9D45B-778C-46BB-AE82-64B08A01BFBB}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|solutionrelative:knowledgehubportal.domain\\entities\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C6D577-CF1D-4762-9BA2-60E3E3B4C766}|konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\konwledgehubportal.data\\mockcatagagrydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C6D577-CF1D-4762-9BA2-60E3E3B4C766}|konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj|solutionrelative:konwledgehubportal.data\\mockcatagagrydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C6D577-CF1D-4762-9BA2-60E3E3B4C766}|konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\konwledgehubportal.data\\konwledgehubportal.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73C6D577-CF1D-4762-9BA2-60E3E3B4C766}|konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj|solutionrelative:konwledgehubportal.data\\konwledgehubportal.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\catagories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\catagories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\articlescontroller1\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\articlescontroller1\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/KHPDb2024/True/SqlTable/dbo.Articles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\catagories\\submiturl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\catagories\\submiturl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\catagories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\catagories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\catagories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\catagories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\data\\migrations\\20240819040110_articlesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\data\\migrations\\20240819040110_articlesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF9D45B-778C-46BB-AE82-64B08A01BFBB}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.domain\\knowledgehubportal.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBF9D45B-778C-46BB-AE82-64B08A01BFBB}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|solutionrelative:knowledgehubportal.domain\\knowledgehubportal.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C6D577-CF1D-4762-9BA2-60E3E3B4C766}|konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\konwledgehubportal.data\\migrations\\20240816031259_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C6D577-CF1D-4762-9BA2-60E3E3B4C766}|konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj|solutionrelative:konwledgehubportal.data\\migrations\\20240816031259_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/KHPDb2024/True/SqlTable/dbo.Catagories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\home\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\home\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\knowledgehubportal.webapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\knowledgehubportal.webapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\data\\migrations\\20240816055308_addedvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\data\\migrations\\20240816055308_addedvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\data\\migrations\\20240816105837_submiturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\data\\migrations\\20240816105837_submiturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\data\\migrations\\20240819040003_articles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\data\\migrations\\20240819040003_articles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\knowledgehubportal.webapp\\data\\migrations\\20240816112453_change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A558393-9B6A-4D5A-9EC7-0C0934EC116E}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\data\\migrations\\20240816112453_change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C6D577-CF1D-4762-9BA2-60E3E3B4C766}|konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj|c:\\training\\iteration1\\labs\\oop lab\\knowlegge hub portal\\knowlegge hub portal\\konwledgehubportal.data\\migrations\\20240819064336_articlesmodified.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C6D577-CF1D-4762-9BA2-60E3E3B4C766}|konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj|solutionrelative:konwledgehubportal.data\\migrations\\20240819064336_articlesmodified.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\kno\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kno\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Catagories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Catagories\\Edit.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Catagories\\Edit.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Catagories\\Edit.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T06:53:19.088Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticlesController1.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Controllers\\ArticlesController1.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Controllers\\ArticlesController1.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Controllers\\ArticlesController1.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Controllers\\ArticlesController1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAG0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:39:32.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T05:00:13.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwDEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T05:15:22.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\ArticlesController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\ArticlesController1\\Index.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\ArticlesController1\\Index.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\ArticlesController1\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T04:40:06.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IArticlesRepository.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.Domain\\Repository\\IArticlesRepository.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.Domain\\Repository\\IArticlesRepository.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.Domain\\Repository\\IArticlesRepository.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.Domain\\Repository\\IArticlesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:13:33.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArticlesRepository.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\konwledgeHubPortal.Data\\ArticlesRepository.cs",
+              "RelativeDocumentMoniker": "konwledgeHubPortal.Data\\ArticlesRepository.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\konwledgeHubPortal.Data\\ArticlesRepository.cs*",
+              "RelativeToolTip": "konwledgeHubPortal.Data\\ArticlesRepository.cs*",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAMwA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:05:04.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Accept.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\ArticlesController1\\Accept.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\ArticlesController1\\Accept.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\ArticlesController1\\Accept.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\ArticlesController1\\Accept.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T07:36:49.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AQIAAAUiAAAAAAAAAAAwwBQiAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-16T06:01:16.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CatagoriesController.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Controllers\\CatagoriesController.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Controllers\\CatagoriesController.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Controllers\\CatagoriesController.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Controllers\\CatagoriesController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T05:28:38.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "jquery.validate.js",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ViewState": "AQIAAK4BAAAAAAAAAAAwwL0BAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-16T11:12:45.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Submit.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\ArticlesController1\\Submit.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\ArticlesController1\\Submit.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\ArticlesController1\\Submit.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\ArticlesController1\\Submit.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T06:40:10.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.Domain\\Entities\\Article.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.Domain\\Entities\\Article.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.Domain\\Entities\\Article.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.Domain\\Entities\\Article.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:01:05.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Program.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Program.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:04:27.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAMAAACwfgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-16T06:01:05.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "jquery.validate.unobtrusive.js",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAwwHwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-16T11:12:48.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AQIAALMEAAAAAAAAAAAwwMIEAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-23T10:18:02.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KHPDbContext.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\konwledgeHubPortal.Data\\KHPDbContext.cs",
+              "RelativeDocumentMoniker": "konwledgeHubPortal.Data\\KHPDbContext.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\konwledgeHubPortal.Data\\KHPDbContext.cs",
+              "RelativeToolTip": "konwledgeHubPortal.Data\\KHPDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwCAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:23:30.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T10:02:28.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Catagories\\Add.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Catagories\\Add.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Catagories\\Add.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Catagories\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T05:08:33.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CatagoryRepository.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\konwledgeHubPortal.Data\\CatagoryRepository.cs",
+              "RelativeDocumentMoniker": "konwledgeHubPortal.Data\\CatagoryRepository.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\konwledgeHubPortal.Data\\CatagoryRepository.cs",
+              "RelativeToolTip": "konwledgeHubPortal.Data\\CatagoryRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:36:21.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICatagoryRepository.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.Domain\\Repository\\ICatagoryRepository.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.Domain\\Repository\\ICatagoryRepository.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.Domain\\Repository\\ICatagoryRepository.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.Domain\\Repository\\ICatagoryRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:03:58.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Catagory.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.Domain\\Entities\\Catagory.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.Domain\\Entities\\Catagory.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.Domain\\Entities\\Catagory.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.Domain\\Entities\\Catagory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:57:01.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:03:24.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\appsettings.json",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\appsettings.json",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T07:01:39.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MockCatagagryDemo.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\konwledgeHubPortal.Data\\MockCatagagryDemo.cs",
+              "RelativeDocumentMoniker": "konwledgeHubPortal.Data\\MockCatagagryDemo.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\konwledgeHubPortal.Data\\MockCatagagryDemo.cs",
+              "RelativeToolTip": "konwledgeHubPortal.Data\\MockCatagagryDemo.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:14:15.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "additional-methods.min.js",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-23T10:18:09.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwBsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:59:36.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "konwledgeHubPortal.Data.csproj",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj",
+              "RelativeDocumentMoniker": "konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj",
+              "RelativeToolTip": "konwledgeHubPortal.Data\\konwledgeHubPortal.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T04:15:38.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T07:32:12.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Review.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\ArticlesController1\\Review.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\ArticlesController1\\Review.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\ArticlesController1\\Review.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\ArticlesController1\\Review.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T04:49:15.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "dbo.Articles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/KHPDb2024/True/SqlTable/dbo.Articles.sql",
+              "ToolTip": "dbo.Articles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-19T07:02:08.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SubmitURL.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Catagories\\SubmitURL.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Catagories\\SubmitURL.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Catagories\\SubmitURL.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Catagories\\SubmitURL.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T10:13:33.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Catagories\\Index.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Catagories\\Index.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Catagories\\Index.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Catagories\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBZwAQAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T06:27:45.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240819064336_articlesmodified.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\konwledgeHubPortal.Data\\Migrations\\20240819064336_articlesmodified.cs",
+              "RelativeDocumentMoniker": "konwledgeHubPortal.Data\\Migrations\\20240819064336_articlesmodified.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\konwledgeHubPortal.Data\\Migrations\\20240819064336_articlesmodified.cs",
+              "RelativeToolTip": "konwledgeHubPortal.Data\\Migrations\\20240819064336_articlesmodified.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:43:37.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:59:31.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T07:32:15.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "catagories.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\catagories.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\catagories.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\catagories.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\catagories.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T06:37:09.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240819040110_articlesadded.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240819040110_articlesadded.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240819040110_articlesadded.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240819040110_articlesadded.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240819040110_articlesadded.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:01:10.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20240819040003_articles.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240819040003_articles.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240819040003_articles.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240819040003_articles.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240819040003_articles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:00:03.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "KnowledgeHubPortal.Domain.csproj",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj",
+              "RelativeToolTip": "KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T03:02:12.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240816031259_init.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\konwledgeHubPortal.Data\\Migrations\\20240816031259_init.cs",
+              "RelativeDocumentMoniker": "konwledgeHubPortal.Data\\Migrations\\20240816031259_init.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\konwledgeHubPortal.Data\\Migrations\\20240816031259_init.cs",
+              "RelativeToolTip": "konwledgeHubPortal.Data\\Migrations\\20240816031259_init.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:12:59.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240816112453_change.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240816112453_change.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240816112453_change.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240816112453_change.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240816112453_change.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:24:53.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "dbo.Catagories [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/KHPDb2024/True/SqlTable/dbo.Catagories.sql",
+              "ToolTip": "dbo.Catagories [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T11:21:55.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20240816105837_submiturl.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240816105837_submiturl.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240816105837_submiturl.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240816105837_submiturl.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240816105837_submiturl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T10:58:37.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T06:26:07.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAACBjwBgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T06:26:13.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20240816055308_addedvalidation.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240816055308_addedvalidation.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240816055308_addedvalidation.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240816055308_addedvalidation.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Data\\Migrations\\20240816055308_addedvalidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T05:53:08.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T06:26:01.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Home\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Home\\Welcome.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Home\\Welcome.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Home\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T07:47:07.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T06:26:04.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T07:32:36.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "KnowledgeHubPortal.WebApp",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T07:32:40.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:03:22.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:03:20.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\appsettings.Development.json",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T07:32:17.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\KnowledgeHubPortal.WebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T07:32:06.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\kno\\Program.cs",
+              "RelativeDocumentMoniker": "kno\\Program.cs",
+              "ToolTip": "C:\\Training\\Iteration1\\Labs\\OOP Lab\\Knowlegge Hub Portal\\Knowlegge Hub Portal\\kno\\Program.cs",
+              "RelativeToolTip": "kno\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:47:59.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

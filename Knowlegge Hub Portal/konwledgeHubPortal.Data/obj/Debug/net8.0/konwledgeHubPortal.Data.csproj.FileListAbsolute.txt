@@ -1,0 +1,17 @@
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\konwledgeHubPortal.Data\bin\Debug\net8.0\konwledgeHubPortal.Data.deps.json
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\konwledgeHubPortal.Data\bin\Debug\net8.0\konwledgeHubPortal.Data.runtimeconfig.json
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\konwledgeHubPortal.Data\bin\Debug\net8.0\konwledgeHubPortal.Data.dll
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\konwledgeHubPortal.Data\bin\Debug\net8.0\konwledgeHubPortal.Data.pdb
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\konwledgeHubPortal.Data\bin\Debug\net8.0\KnowledgeHubPortal.Domain.dll
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\konwledgeHubPortal.Data\bin\Debug\net8.0\KnowledgeHubPortal.Domain.pdb
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\konwledgeHubPortal.Data\obj\Debug\net8.0\konwledgeHubPortal.Data.csproj.AssemblyReference.cache
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\konwledgeHubPortal.Data\obj\Debug\net8.0\konwledgeHubPortal.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\konwledgeHubPortal.Data\obj\Debug\net8.0\konwledgeHubPortal.Data.AssemblyInfoInputs.cache
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\konwledgeHubPortal.Data\obj\Debug\net8.0\konwledgeHubPortal.Data.AssemblyInfo.cs
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\konwledgeHubPortal.Data\obj\Debug\net8.0\konwledgeHubPortal.Data.csproj.CoreCompileInputs.cache
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\konwledgeHubPortal.Data\obj\Debug\net8.0\konwledg.D7FC9035.Up2Date
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\konwledgeHubPortal.Data\obj\Debug\net8.0\konwledgeHubPortal.Data.dll
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\konwledgeHubPortal.Data\obj\Debug\net8.0\refint\konwledgeHubPortal.Data.dll
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\konwledgeHubPortal.Data\obj\Debug\net8.0\konwledgeHubPortal.Data.pdb
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\konwledgeHubPortal.Data\obj\Debug\net8.0\konwledgeHubPortal.Data.genruntimeconfig.cache
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\konwledgeHubPortal.Data\obj\Debug\net8.0\ref\konwledgeHubPortal.Data.dll

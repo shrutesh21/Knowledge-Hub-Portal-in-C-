@@ -1,0 +1,14 @@
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\kno\bin\Debug\net8.0\kno.exe
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\kno\bin\Debug\net8.0\kno.deps.json
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\kno\bin\Debug\net8.0\kno.runtimeconfig.json
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\kno\bin\Debug\net8.0\kno.dll
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\kno\bin\Debug\net8.0\kno.pdb
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\kno\obj\Debug\net8.0\kno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\kno\obj\Debug\net8.0\kno.AssemblyInfoInputs.cache
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\kno\obj\Debug\net8.0\kno.AssemblyInfo.cs
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\kno\obj\Debug\net8.0\kno.csproj.CoreCompileInputs.cache
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\kno\obj\Debug\net8.0\kno.dll
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\kno\obj\Debug\net8.0\refint\kno.dll
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\kno\obj\Debug\net8.0\kno.pdb
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\kno\obj\Debug\net8.0\kno.genruntimeconfig.cache
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\kno\obj\Debug\net8.0\ref\kno.dll

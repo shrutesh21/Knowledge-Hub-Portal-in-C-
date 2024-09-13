@@ -1,0 +1,51 @@
+﻿@using Humanizer
+@model IEnumerable<KnowledgeHubPortal.Domain.Entities.Article>
+
+@{
+    ViewData["Title"] = "Accept";
+}
+
+@TempData["Message"]
+
+<h1>Review Articles</h1>
+<form method="post">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Select
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Title)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CatagoryId)
+                </th>
+                <th>
+                    Submitted
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.articles as List<KnowledgeHubPortal.Domain.Entities.Article>)
+            {
+            <tr>
+                <td>
+                    <input type="checkbox" name="selectedArticleIds" value="@item.ArticleId" />
+                </td>
+                <td>
+                    <a href="@item.ArticleUrl" target="_blank">@item.Title</a>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @item.DateSubmitted.Humanize(false)
+                </td>
+            </tr>
+    }
+        </tbody>
+    </table>
+    <input type="submit" class="btn btn-primary me-2" formaction="/ArticlesController1/Accept" name="accept" value="Approve"></input>
+    <input type="submit" class="btn btn-danger" formaction="/ArticlesController1/Reject" name="reject" value="Reject"></input>
+</form>

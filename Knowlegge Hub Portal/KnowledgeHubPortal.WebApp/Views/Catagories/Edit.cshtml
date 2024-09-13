@@ -1,0 +1,31 @@
+﻿@model KnowledgeHubPortal.Domain.Entities.Catagory
+
+@*<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script> *@
+
+<div class="container mt-5">
+    <h1 class="mb-4">Edit Catagory</h1>
+    <form asp-action="Edit" asp-controller="Catagories" method="post">
+        @Html.ValidationSummary()
+        <div class="mb-3">
+            <input type="hidden" asp-for="CatagoryId" value="@Model.CatagoryId"></input>
+            <label for="catagoryName" class="form-label">Catagory Name</label>
+            <input type="text" class="form-control" id="Name" asp-for="Name" value="@Model.Name" placeholder="Enter catagory name" required>
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label for="catagoryDescription" class="form-label">Catagory Description</label>
+            <textarea class="form-control" id="Description" asp-for="Description" value="@Model.Description" rows="4" placeholder="Enter catagory description" required></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Edit</button>
+        <a asp-action="Index" asp-controller="Catagories" class="btn btn-primary">Cancel</a>
+    </form>
+</div>
+
+@section scripts
+{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

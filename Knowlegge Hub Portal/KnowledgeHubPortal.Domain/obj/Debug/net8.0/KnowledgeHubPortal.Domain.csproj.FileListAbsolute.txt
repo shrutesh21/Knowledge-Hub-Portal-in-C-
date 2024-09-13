@@ -1,0 +1,11 @@
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\KnowledgeHubPortal.Domain\bin\Debug\net8.0\KnowledgeHubPortal.Domain.deps.json
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\KnowledgeHubPortal.Domain\bin\Debug\net8.0\KnowledgeHubPortal.Domain.dll
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\KnowledgeHubPortal.Domain\bin\Debug\net8.0\KnowledgeHubPortal.Domain.pdb
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\KnowledgeHubPortal.Domain\obj\Debug\net8.0\KnowledgeHubPortal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\KnowledgeHubPortal.Domain\obj\Debug\net8.0\KnowledgeHubPortal.Domain.AssemblyInfoInputs.cache
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\KnowledgeHubPortal.Domain\obj\Debug\net8.0\KnowledgeHubPortal.Domain.AssemblyInfo.cs
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\KnowledgeHubPortal.Domain\obj\Debug\net8.0\KnowledgeHubPortal.Domain.csproj.CoreCompileInputs.cache
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\KnowledgeHubPortal.Domain\obj\Debug\net8.0\KnowledgeHubPortal.Domain.dll
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\KnowledgeHubPortal.Domain\obj\Debug\net8.0\refint\KnowledgeHubPortal.Domain.dll
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\KnowledgeHubPortal.Domain\obj\Debug\net8.0\KnowledgeHubPortal.Domain.pdb
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\KnowledgeHubPortal.Domain\obj\Debug\net8.0\ref\KnowledgeHubPortal.Domain.dll
