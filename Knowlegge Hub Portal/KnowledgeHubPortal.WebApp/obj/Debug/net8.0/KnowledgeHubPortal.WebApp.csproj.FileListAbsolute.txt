@@ -264,3 +264,4 @@ C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\Kn
 C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\KnowledgeHubPortal.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\KnowledgeHubPortal.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\KnowledgeHubPortal.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Training\Iteration1\Labs\OOP Lab\Knowlegge Hub Portal\Knowlegge Hub Portal\KnowledgeHubPortal.WebApp\obj\Debug\net8.0\KnowledgeHubPortal.WebApp.sourcelink.json
